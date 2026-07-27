@@ -10,6 +10,7 @@
 | [modification.md](modification.md) | 形容、所有、関係節などの修飾 |
 | [morphology.md](morphology.md) | 活用、接辞、複合語などの語形成 |
 | [sentence-types.md](sentence-types.md) | 疑問、否定、命令、推量など |
+| [numerals.md](numerals.md) | 16進数、数字の読み、位と大単位 |
 
 最初に `basic-syntax.md`、`particles.md`、`omission.md` を固め、必要になった規則を残りのファイルへ追加します。文字と音の前提は [ルートREADME](../README.md#文字と音) を参照してください。
 

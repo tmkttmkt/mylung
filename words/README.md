@@ -18,6 +18,7 @@
 | [auxiliaries.md](auxiliaries.md) | 助動詞 |
 | [interrogatives.md](interrogatives.md) | 疑問語 |
 | [conjunctions.md](conjunctions.md) | 接続語 |
+| [numerals.md](numerals.md) | 数字の読みと数詞・単位語 |
 
 `lexicon.tsv` の `category` 列で種類を区別します。
 
@@ -26,6 +27,7 @@
 - 派生した内容語を見る：`派生語` で絞る
 - 代名詞・助詞を見る：`機能語` で絞る
 - 品詞標識を見る：`標識` で絞る
+- 数詞と単位語を見る：`数詞` で絞る
 
 これにより、すべてを一つの台帳に記録しながら、核だけの一覧も取り出せます。詳しい説明は各専用ファイルにも残します。
 
