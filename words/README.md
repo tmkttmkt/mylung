@@ -19,6 +19,7 @@
 | [interrogatives.md](interrogatives.md) | 疑問語 |
 | [conjunctions.md](conjunctions.md) | 接続語 |
 | [numerals.md](numerals.md) | 数字の読みと数詞・単位語 |
+| [time.md](time.md) | 時間、秒、分、時、日、週、月、年 |
 
 `lexicon.tsv` の `category` 列で種類を区別します。
 
@@ -49,4 +50,4 @@ D185E58 → 生きる
 D185E5A → 生きている、生命のある
 ```
 
-語彙が増えた段階で、自然、身体、社会、時間などの意味分野別ファイルを追加します。
+語彙が増えた段階で、自然、身体、社会などの意味分野別ファイルを追加します。
