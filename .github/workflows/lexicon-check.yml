@@ -1,0 +1,18 @@
+name: lexicon-check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lexicon:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate lexicon
+        run: python tools/lexicon.py check
+      - name: Check generated files
+        run: python tools/lexicon.py generate --check
